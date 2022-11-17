@@ -7,8 +7,8 @@ def alphabet_position(text):
   text_list = list(text.lower())
 
   list_positions = []
-  size = 0
-  tamanho = len(text_list)
+  counter = 0
+  size = len(text_list)
 
   for i in text_list:
     if counter <= size:
