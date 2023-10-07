@@ -1,5 +1,5 @@
 def diamond(n):
-    # variaveis e calculos
+    # variáveis e cálculos
     expresao = ''
     caracter = '*'
     m = 0
